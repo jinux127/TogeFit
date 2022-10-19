@@ -39,8 +39,6 @@
 
 ##### 4. 프로젝트 구성
 
-![service-diagram](https://team-16-s3.s3.ap-northeast-2.amazonaws.com/service-diagram.jpg)
-
 - 사용 스택
   - 프론트엔드
     - React
